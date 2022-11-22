@@ -1,0 +1,2 @@
+# UrlTokenUtility
+UrlTokenUtility is a HttpServerUtility.UrlTokenEncode HttpServerUtility.UrlTokenDencode replacement for netstandard
